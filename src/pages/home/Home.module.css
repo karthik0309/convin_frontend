@@ -1,0 +1,16 @@
+.img{
+    width:100vw;
+    height:300px;
+    display: flex;
+    justify-content:center;
+}
+
+.img>img{
+    object-fit:contain;
+}
+
+.button{
+    width:100vw;
+    display:flex;
+    justify-content: center;
+}
